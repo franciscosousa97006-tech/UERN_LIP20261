@@ -1,0 +1,16 @@
+Brasil;2;Argentina;1
+França;0;México;3
+Alemanha;4;Japão;2
+Espanha;1;Portugal;1
+Inglaterra;3;Itália;2
+Uruguai;0;Colômbia;0
+Holanda;2;Bélgica;1
+Argentina;5;México;0
+Brasil;1;França;1
+Portugal;2;Marrocos;0
+Estados Unidos;3;Canadá;2
+Senegal;1;Croácia;2
+Japão;0;Espanha;4
+Alemanha;1;Inglaterra;1
+Itália;3;Uruguai;1
+Colômbia;2;Holanda;2
